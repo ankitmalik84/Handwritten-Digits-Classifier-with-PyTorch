@@ -12,11 +12,7 @@ This project focuses on building a neural network model to perform optical chara
 
 - **Model Evaluation and Tuning**: The accuracy of the neural network on the test set will be evaluated. Model hyperparameters and architecture will be tuned to achieve high accuracy on the test set.
 
-<<<<<<< HEAD
 - **Improved Model**: Changes to hyperparameters or architecture will be made to improve model performance. The goal is to achieve 96% accuracy on the test set.
-=======
-- **Improved Model**: Changes to hyperparameters or architecture will be made to improve model performance. The goal is to achieve 100% accuracy on the test set.
->>>>>>> master
 
 ### 📁 Repository Structure:
 
